@@ -1,1 +1,2 @@
 This is an sampke file content.
+Adding new line.
