@@ -1,0 +1,5 @@
+total 12
+-rw-rw-r-- 1 ubuntu ubuntu 82 Sep 20 09:38 first_git_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu  5 Sep 20 09:39 second_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu  5 Oct  3 08:45 third_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu  0 Oct  3 09:24 fourth_file.txt
