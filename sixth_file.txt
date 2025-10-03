@@ -1,0 +1,2 @@
+origin	https://github.com/ranjith-vedansh/devops_file.git (fetch)
+origin	https://github.com/ranjith-vedansh/devops_file.git (push)
