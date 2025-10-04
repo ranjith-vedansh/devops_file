@@ -1,0 +1,9 @@
+total 28
+-rw-rw-r-- 1 ubuntu ubuntu   5 Oct  4 07:48 third_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu 131 Oct  4 07:48 sixth_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu   5 Oct  4 07:48 second_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu 247 Oct  4 07:48 fourth_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu 445 Oct  4 07:48 fifth_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu 116 Oct  4 08:02 first_file.txt
+-rw-rw-r-- 1 ubuntu ubuntu  47 Oct  4 08:26 README.md
+-rw-rw-r-- 1 ubuntu ubuntu   0 Oct  4 08:34 log_file
